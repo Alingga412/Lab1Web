@@ -14,4 +14,8 @@
 
 ## menambahkan gambar
 
-![menambahkan_gambar](screenshot//gambar.png)
+![menambahkan_gambar](screenshot//menambahkan_gambar.png)
+
+## hyperlink
+
+![hyperlink](screenshot//hyperlink.png)
